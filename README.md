@@ -51,6 +51,6 @@ http://www.coryarcangel.com
 
 Requirements: Nintendo Entertainment System, Zapper, Hogan's Alley cartridge, CRT television, 2 27C256 EEPROMs.
 
-A mod of the Nintendo Entertainment System game Hogan's Alley where the characters were changed to Andy Warhol, the Pope, Flavor Flav~\footnotemark[4]~, and Col. Sanders.
+A mod of the Nintendo Entertainment System game Hogan's Alley where the characters were changed to Andy Warhol, the Pope, Flavor Flav, and Col. Sanders.
 
 "I love to sleep. I'd sleep all day if I could." - Miley Cyrus
